@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet>
+  <Frame Height="132" Width="112" TLPos="0,0" />
+  <Frame Height="132" Width="112" TLPos="112,0" />
+  <Frame Height="132" Width="112" TLPos="224,0" />
+  <Frame Height="132" Width="112" TLPos="336,0" />
+  <Frame Height="132" Width="112" TLPos="448,0" />
+  <Frame Height="132" Width="112" TLPos="560,0" />
+  <Frame Height="132" Width="112" TLPos="672,0" />
+  <Frame Height="132" Width="112" TLPos="784,0" />
+  <Frame Height="132" Width="112" TLPos="896,0" />
+  <Frame Height="132" Width="112" TLPos="0,132" />
+  <Frame Height="132" Width="112" TLPos="112,132" />
+</SpriteSheet>

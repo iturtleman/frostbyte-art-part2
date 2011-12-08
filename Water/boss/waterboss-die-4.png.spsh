@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet>
+  <Frame Height="89" Width="190" TLPos="0,0" />
+  <Frame Height="89" Width="190" TLPos="190,0" />
+  <Frame Height="89" Width="190" TLPos="380,0" />
+  <Frame Height="89" Width="190" TLPos="570,0" />
+  <Frame Height="89" Width="190" TLPos="760,0" />
+  <Frame Height="89" Width="190" TLPos="0,89" />
+  <Frame Height="89" Width="190" TLPos="190,89" />
+  <Frame Height="89" Width="190" TLPos="380,89" />
+  <Frame Height="89" Width="190" TLPos="570,89" />
+  <Frame Height="89" Width="190" TLPos="760,89" />
+  <Frame Height="89" Width="190" TLPos="0,178" />
+  <Frame Height="89" Width="190" TLPos="190,178" />
+  <Frame Height="89" Width="190" TLPos="380,178" />
+  <Frame Height="89" Width="190" TLPos="570,178" />
+  <Frame Height="89" Width="190" TLPos="760,178" />
+  <Frame Height="89" Width="190" TLPos="0,267" />
+  <Frame Height="89" Width="190" TLPos="190,267" />
+  <Frame Height="89" Width="190" TLPos="380,267" />
+  <Frame Height="89" Width="190" TLPos="570,267" />
+  <Frame Height="89" Width="190" TLPos="760,267" />
+  <Frame Height="89" Width="190" TLPos="0,356" />
+  <Frame Height="89" Width="190" TLPos="190,356" />
+  <Frame Height="89" Width="190" TLPos="380,356" />
+  <Frame Height="89" Width="190" TLPos="570,356" />
+  <Frame Height="89" Width="190" TLPos="760,356" />
+</SpriteSheet>

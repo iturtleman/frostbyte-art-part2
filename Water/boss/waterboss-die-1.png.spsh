@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet>
+  <Frame Height="127" Width="185" TLPos="0,0" />
+  <Frame Height="127" Width="185" TLPos="185,0" />
+  <Frame Height="127" Width="185" TLPos="370,0" />
+  <Frame Height="127" Width="185" TLPos="555,0" />
+  <Frame Height="127" Width="185" TLPos="740,0" />
+  <Frame Height="127" Width="185" TLPos="0,127" />
+  <Frame Height="127" Width="185" TLPos="185,127" />
+  <Frame Height="127" Width="185" TLPos="370,127" />
+  <Frame Height="127" Width="185" TLPos="555,127" />
+  <Frame Height="127" Width="185" TLPos="740,127" />
+  <Frame Height="127" Width="185" TLPos="0,254" />
+  <Frame Height="127" Width="185" TLPos="185,254" />
+  <Frame Height="127" Width="185" TLPos="370,254" />
+  <Frame Height="127" Width="185" TLPos="555,254" />
+  <Frame Height="127" Width="185" TLPos="740,254" />
+  <Frame Height="127" Width="185" TLPos="0,381" />
+  <Frame Height="127" Width="185" TLPos="185,381" />
+  <Frame Height="127" Width="185" TLPos="370,381" />
+  <Frame Height="127" Width="185" TLPos="555,381" />
+  <Frame Height="127" Width="185" TLPos="740,381" />
+  <Frame Height="127" Width="185" TLPos="0,508" />
+</SpriteSheet>
