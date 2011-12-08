@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet>
+  <Frame Height="127" Width="120" TLPos="0,0" />
+  <Frame Height="127" Width="120" TLPos="120,0" />
+  <Frame Height="127" Width="120" TLPos="240,0" />
+  <Frame Height="127" Width="120" TLPos="360,0" />
+  <Frame Height="127" Width="120" TLPos="0,127" />
+  <Frame Height="127" Width="120" TLPos="120,127" />
+</SpriteSheet>

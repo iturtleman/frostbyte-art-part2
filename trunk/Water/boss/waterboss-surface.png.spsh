@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet>
+  <Frame Height="283" Width="262" TLPos="0,0" />
+  <Frame Height="283" Width="262" TLPos="262,0" />
+  <Frame Height="283" Width="262" TLPos="524,0" />
+  <Frame Height="283" Width="262" TLPos="786,0" />
+  <Frame Height="283" Width="262" TLPos="1048,0" />
+  <Frame Height="283" Width="262" TLPos="1310,0" />
+  <Frame Height="283" Width="262" TLPos="1572,0" />
+  <Frame Height="283" Width="262" TLPos="0,283" />
+  <Frame Height="283" Width="262" TLPos="262,283" />
+  <Frame Height="283" Width="262" TLPos="524,283" />
+  <Frame Height="283" Width="262" TLPos="786,283" />
+  <Frame Height="283" Width="262" TLPos="1048,283" />
+  <Frame Height="283" Width="262" TLPos="1310,283" />
+  <Frame Height="283" Width="262" TLPos="1572,283" />
+  <Frame Height="283" Width="262" TLPos="0,566" />
+  <Frame Height="283" Width="262" TLPos="262,566" />
+  <Frame Height="283" Width="262" TLPos="524,566" />
+  <Frame Height="283" Width="262" TLPos="786,566" />
+  <Frame Height="283" Width="262" TLPos="1048,566" />
+  <Frame Height="283" Width="262" TLPos="1310,566" />
+  <Frame Height="283" Width="262" TLPos="1572,566" />
+  <Frame Height="283" Width="262" TLPos="0,849" />
+  <Frame Height="283" Width="262" TLPos="262,849" />
+  <Frame Height="283" Width="262" TLPos="524,849" />
+  <Frame Height="283" Width="262" TLPos="786,849" />
+  <Frame Height="283" Width="262" TLPos="1048,849" />
+  <Frame Height="283" Width="262" TLPos="1310,849" />
+  <Frame Height="283" Width="262" TLPos="1572,849" />
+  <Frame Height="283" Width="262" TLPos="0,1132" />
+  <Frame Height="283" Width="262" TLPos="262,1132" />
+  <Frame Height="283" Width="262" TLPos="524,1132" />
+  <Frame Height="283" Width="262" TLPos="786,1132" />
+  <Frame Height="283" Width="262" TLPos="1048,1132" />
+</SpriteSheet>
